@@ -22,12 +22,12 @@ This repository contains two web scraping projects using Playwright and Python.
  #### Example
  python google_maps_scraper.py -s "dentist New York" -t 10
  
-- ###Booking.com Hotel Scraper
+### 2. Booking.com Hotel Scraper
 -  This is simple scraper that uses Playwright to extract data from Booking.com
 #### to install
 - pip install -r requirements.txt
 -  playwright install chromium
--  ####to Run
+   ####to Run
 -  python3 booking_com_scraper.py
 
  
