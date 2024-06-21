@@ -5,9 +5,9 @@ This repository contains two web scraping projects using Playwright and Python.
 1. **Google Maps Business Scraper**
 2. **Booking.com Hotel Scraper**
 
-3. ### 1. Google Maps Business Scraper
-4. This script scrapes business information from Google Maps based on a search query. The data collected includes business name, address, website, and phone number. The results are saved in both Excel and CSV formats.
-5. #### Dependencies
+ ### 1. Google Maps Business Scraper
+ This script scrapes business information from Google Maps based on a search query. The data collected includes business name, address, website, and phone number. The results are saved in both Excel and CSV formats.
+#### Dependencies
 
 - Python 3.x
 - Playwright
