@@ -17,7 +17,7 @@ This repository contains two web scraping projects using Playwright and Python.
 - pip install -r requirements.txt
 -  playwright install chromium
 
-   ####to Run
+ #### to Run
 -  python3 main.py -s=<what & where to search for> -t=<how many>
  #### Example
  python google_maps_scraper.py -s "dentist New York" -t 10
