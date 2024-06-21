@@ -27,7 +27,7 @@ This repository contains two web scraping projects using Playwright and Python.
 #### to install
 - pip install -r requirements.txt
 -  playwright install chromium
-   ####to Run
+  ####to Run
 -  python3 booking_com_scraper.py
 
  
